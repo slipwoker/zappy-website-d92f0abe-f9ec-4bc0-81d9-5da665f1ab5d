@@ -2,13 +2,13 @@
 
 An online store specializing in selling squishies — soft, squeezable collectible toys popular among kids, teens, and collectors. The store focuses on e-commerce with a product catalog and shopping experience centered around fun, colorful, and tactile toy merchandise.
 
-Source: https://-d92f0abe.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את עולם הסקושים הכי רכים — עולם הסקושים של תהל ואדל
 
-URL: https://-d92f0abe.zappy5.app
+URL: https://example.com
 Description: חנות הסקושים האונליין הכי שווה בישראל! מאות סקושים לילדים, מתנות יום הולדת צבעוניות וצעצועים רכים במחירים מפנקים. כנסו עכשיו ותתחילו למעוך!
 
 גלו את עולם הסקושים הכי רכים — עולם הסקושים של תהל ואדל
@@ -608,7 +608,7 @@ Description: חנות הסקושים האונליין הכי שווה בישרא
 
 ## הסיפור המתוק מאחורי הלחיצות — עולם הסקושים של תהל ואדל
 
-URL: https://-d92f0abe.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את תהל ואדל ואת האהבה שהפכה לחנות סקושים משגשגת. אנחנו מביאים לכם סקושים נדירים לאספנים וצעצועים איכותיים עם חיוך ענק. בואו לקרוא איך הכל התחיל!
 
 הסיפור המתוק מאחורי הלחיצות — עולם הסקושים של תהל ואדל
@@ -916,7 +916,7 @@ Description: הכירו את תהל ואדל ואת האהבה שהפכה לחנ
 
 ## קיר הסקושים המהמם — צללו לגלריית הצבע — עולם הסקושים של תהל ואדל
 
-URL: https://-d92f0abe.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: דפדפו בגלריית הסקושים הכי מתוקה ברשת! צפו בתמונות של סקושים לילדים במגוון צורות, גדלים וניחוחות. איזה סקוש יהפוך לחבר הכי טוב שלכם? היכנסו לבחור!
 
 קיר הסקושים המהמם — צללו לגלריית הצבע — עולם הסקושים של תהל ואדל
@@ -1257,7 +1257,7 @@ Description: דפדפו בגלריית הסקושים הכי מתוקה ברשת
 
 ## יש שאלה על סקוש? דברו איתנו בלחיצה — עולם הסקושים של תהל ואדל
 
-URL: https://-d92f0abe.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בבחירת סקושים לילדים או מחפשים סקושים נדירים לאספנים? צרו קשר עם עולם הסקושים של תהל ואדל ונחזור אליכם במהירות עם חיוך רך במיוחד!
 
 יש שאלה על סקוש? דברו איתנו בלחיצה — עולם הסקושים של תהל ואדל
@@ -1564,7 +1564,7 @@ Description: צריכים עזרה בבחירת סקושים לילדים או �
 
 ## מוצרים
 
-URL: https://-d92f0abe.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - עולם הסקושים של תהל ואדל
 
 מוצרים - עולם הסקושים של תהל ואדל
@@ -1931,7 +1931,7 @@ Description: המוצרים שלנו - עולם הסקושים של תהל וא�
 
 ## פרטי המוצר
 
-URL: https://-d92f0abe.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - עולם הסקושים של תהל ואדל
 
 פרטי המוצר - עולם הסקושים של תהל ואדל
@@ -2142,7 +2142,7 @@ Description: פרטי המוצר - עולם הסקושים של תהל ואדל
 
 ## מוצרים
 
-URL: https://-d92f0abe.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - עולם הסקושים של תהל ואדל
 
 מוצרים - עולם הסקושים של תהל ואדל
@@ -2377,7 +2377,7 @@ Description: מוצרים - עולם הסקושים של תהל ואדל
 
 ## מדיניות פרטיות
 
-URL: https://-d92f0abe.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2655,7 +2655,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d92f0abe.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2942,7 +2942,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d92f0abe.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3248,7 +3248,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | עולם הסקושים של תהל ואדל
 
-URL: https://-d92f0abe.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך! הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. עולם הסקושים של תהל ואדל - קניית סקושים אונליין ישראל.
 
 תודה רבה | עולם הסקושים של תהל ואדל

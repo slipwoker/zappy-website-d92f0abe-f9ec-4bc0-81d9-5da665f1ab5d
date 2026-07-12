@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-d92f0abe.zappy5.app
+https://example.com
 חנות הסקושים האונליין הכי שווה בישראל! מאות סקושים לילדים, מתנות יום הולדת צבעוניות וצעצועים רכים במחירים מפנקים. כנסו עכשיו ותתחילו למעוך!
 
 ### אודות
-https://-d92f0abe.zappy5.app/about
+https://example.com/about
 הכירו את תהל ואדל ואת האהבה שהפכה לחנות סקושים משגשגת. אנחנו מביאים לכם סקושים נדירים לאספנים וצעצועים איכותיים עם חיוך ענק. בואו לקרוא איך הכל התחיל!
 
 ### גלריה
-https://-d92f0abe.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריית הסקושים הכי מתוקה ברשת! צפו בתמונות של סקושים לילדים במגוון צורות, גדלים וניחוחות. איזה סקוש יהפוך לחבר הכי טוב שלכם? היכנסו לבחור!
 
 ### צור קשר
-https://-d92f0abe.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת סקושים לילדים או מחפשים סקושים נדירים לאספנים? צרו קשר עם עולם הסקושים של תהל ואדל ונחזור אליכם במהירות עם חיוך רך במיוחד!
 
 ### Products
-https://-d92f0abe.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עולם הסקושים של תהל ואדל
 
 ### Product Detail
-https://-d92f0abe.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עולם הסקושים של תהל ואדל
 
 ### Category
-https://-d92f0abe.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עולם הסקושים של תהל ואדל
 
 ### תודה רבה | עולם הסקושים של תהל ואדל
-https://-d92f0abe.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך! הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. עולם הסקושים של תהל ואדל - קניית סקושים אונליין ישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d92f0abe.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d92f0abe.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d92f0abe.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -77,8 +77,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d92f0abe.zappy5.app/sitemap.xml
-- Robots: https://-d92f0abe.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d92f0abe.zappy5.app/llms-full.txt
-- Products (JSON): https://-d92f0abe.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-d92f0abe.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
