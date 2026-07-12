@@ -1,0 +1,84 @@
+# עולם הסקושים של תהל ואדל — Generative Engine Optimization Map
+
+> An online store specializing in selling squishies — soft, squeezable collectible toys popular among kids, teens, and collectors. The store focuses on e-commerce with a product catalog and shopping experience centered around fun, colorful, and tactile toy merchandise.
+
+---
+
+## Pages
+
+### בית
+https://-d92f0abe.zappy5.app
+חנות הסקושים האונליין הכי שווה בישראל! מאות סקושים לילדים, מתנות יום הולדת צבעוניות וצעצועים רכים במחירים מפנקים. כנסו עכשיו ותתחילו למעוך!
+
+### אודות
+https://-d92f0abe.zappy5.app/about
+הכירו את תהל ואדל ואת האהבה שהפכה לחנות סקושים משגשגת. אנחנו מביאים לכם סקושים נדירים לאספנים וצעצועים איכותיים עם חיוך ענק. בואו לקרוא איך הכל התחיל!
+
+### גלריה
+https://-d92f0abe.zappy5.app/gallery
+דפדפו בגלריית הסקושים הכי מתוקה ברשת! צפו בתמונות של סקושים לילדים במגוון צורות, גדלים וניחוחות. איזה סקוש יהפוך לחבר הכי טוב שלכם? היכנסו לבחור!
+
+### צור קשר
+https://-d92f0abe.zappy5.app/contact
+צריכים עזרה בבחירת סקושים לילדים או מחפשים סקושים נדירים לאספנים? צרו קשר עם עולם הסקושים של תהל ואדל ונחזור אליכם במהירות עם חיוך רך במיוחד!
+
+### Products
+https://-d92f0abe.zappy5.app/products
+המוצרים שלנו - עולם הסקושים של תהל ואדל
+
+### Product Detail
+https://-d92f0abe.zappy5.app/product/:slug
+פרטי המוצר - עולם הסקושים של תהל ואדל
+
+### Category
+https://-d92f0abe.zappy5.app/category/:slug
+מוצרים - עולם הסקושים של תהל ואדל
+
+### תודה רבה | עולם הסקושים של תהל ואדל
+https://-d92f0abe.zappy5.app/thank-you
+תודה רבה על פנייתך! הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. עולם הסקושים של תהל ואדל - קניית סקושים אונליין ישראל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d92f0abe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d92f0abe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d92f0abe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עולם הסקושים של תהל ואדל
+An online store specializing in selling squishies — soft, squeezable collectible toys popular among kids, teens, and collectors. The store focuses on e-commerce with a product catalog and shopping experience centered around fun, colorful, and tactile toy merchandise.
+
+## Target Audience
+- אספנים צעירים
+- הורים לאספנים
+- קונים מתנות
+
+## Industry
+E-commerce / Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d92f0abe.zappy5.app/sitemap.xml
+- Robots: https://-d92f0abe.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d92f0abe.zappy5.app/llms-full.txt
+- Products (JSON): https://-d92f0abe.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-d92f0abe.zappy5.app/product-feed.xml
